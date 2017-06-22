@@ -1,0 +1,4 @@
+*.suo
+/Bonsai.Pupil/bin/Debug
+/Bonsai.Pupil/obj/Debug
+/packages
